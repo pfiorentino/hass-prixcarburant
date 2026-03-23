@@ -2044,7 +2044,7 @@
     "brand": "Avia"
   },
   "6650004": {
-     "name": "Casino Supermarché",
+    "name": "Casino Supermarché",
     "brand": "Casino"
   },
   "6660001": {
@@ -13276,7 +13276,7 @@
     "brand": "Esso"
   },
   "34130002": {
-    "name": "S.A.S HYPER SAINT AUNES",
+    "name": "Leclerc Saint-Aunès",
     "brand": "Leclerc"
   },
   "34130003": {
@@ -13312,7 +13312,7 @@
     "brand": "Supermarchés Spar"
   },
   "34150003": {
-    "name": "Intermarché GIGNAC",
+    "name": "Intermarché Gignac",
     "brand": "Intermarché"
   },
   "34160001": {
@@ -13688,16 +13688,12 @@
     "brand": "Intermarché Contact"
   },
   "34690004": {
-    "name": "Intermarché FABREGUES",
+    "name": "Intermarché Fabrègues",
     "brand": "Intermarché"
   },
-  "34690006": {
-    "name": "BP A9 AIRE DE FABREGUES SUD",
-    "brand": "BP"
-  },
-  "34690007": {
-    "name": "AGIP FABREGUES",
-    "brand": "Agip"
+  "34690011": {
+    "name": "Esso Express Fabrègues (Parking Lidl)",
+    "brand": "Esso Express"
   },
   "34700001": {
     "name": "Super U",
@@ -13788,15 +13784,15 @@
     "brand": "Carrefour"
   },
   "34980001": {
-    "name": "Carrefour ST CLEMENT",
+    "name": "Carrefour Saint-Clément-de-Rivière",
     "brand": "Carrefour"
   },
   "34980002": {
-    "name": "Intermarché ST GELY DU FESC",
+    "name": "Intermarché Saint-Gély-du-Fesc",
     "brand": "Intermarché"
   },
   "34990001": {
-    "name": "Intermarché JUVIGNAC",
+    "name": "Intermarché Juvignac",
     "brand": "Intermarché"
   },
   "35000006": {
@@ -14987,7 +14983,7 @@
     "name": "ENI AVENUE RHIN ET DANUBE",
     "brand": "Agip"
   },
- "38000018": {
+  "38000018": {
     "name": "Station Service Eni",
     "brand": "Eni"
   },
@@ -15027,7 +15023,7 @@
     "name": "BP GRENOBLE VERCORS 8 à Huit",
     "brand": "BP"
   },
- "38100015": {
+  "38100015": {
     "name": "Station Service Eni",
     "brand": "Eni"
   },
@@ -15171,7 +15167,7 @@
     "name": "VIZILLE STATION LETELLIER",
     "brand": "Total"
   },
- "38220003": {
+  "38220003": {
     "name": "Intermarché",
     "brand": "Intermarché"
   },
@@ -15319,7 +15315,7 @@
     "name": "AVIA SAINT NAZAIRE LES EYMES",
     "brand": "Avia"
   },
- "38330006": {
+  "38330006": {
     "name": "Station AVIA St Nazaire Les Eymes",
     "brand": "AVIA"
   },
@@ -15547,7 +15543,7 @@
     "name": "Casino carburant",
     "brand": "Casino"
   },
- "38520005": {
+  "38520005": {
     "name": "Intermarché",
     "brand": "Intermarché"
   },
@@ -15591,7 +15587,7 @@
     "name": "GEANT CASINO",
     "brand": "Géant"
   },
- "38600003": {
+  "38600003": {
     "name": "Auchan",
     "brand": "Auchan"
   },
@@ -28184,7 +28180,6 @@
   "69320008": {
     "name": "RELAIS FEYZIN BELLE ETOILE - 2",
     "brand": "Total Access"
-
   },
   "69330001": {
     "name": "CSF FRANCE STATION SERVICE",
