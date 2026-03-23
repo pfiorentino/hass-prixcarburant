@@ -1,5 +1,26 @@
 # Changelog
 
+## [3.8.0](https://github.com/pfiorentino/hass-prixcarburant/compare/3.7.0...3.8.0) (2026-03-23)
+
+### Features
+
+* add option to ignore API's certificate verification ([#97](https://github.com/pfiorentino/hass-prixcarburant/issues/97)) ([b28e90b](https://github.com/pfiorentino/hass-prixcarburant/commit/b28e90b09e9f586995519baa8ba10401e44d832e))
+* add release ([4da949d](https://github.com/pfiorentino/hass-prixcarburant/commit/4da949d9c39f5bb2e639ab7745d7fbf02229ec68))
+* add station 38490012 ([#101](https://github.com/pfiorentino/hass-prixcarburant/issues/101)) ([f459999](https://github.com/pfiorentino/hass-prixcarburant/commit/f4599996a87c6cdcd86a14f0bfaefe43294b4fc9))
+* allow to add/remove stations from the UI  ([#126](https://github.com/pfiorentino/hass-prixcarburant/issues/126)) ([ceb5a92](https://github.com/pfiorentino/hass-prixcarburant/commit/ceb5a9272ede06af1dacf0f5588dd7615108ca38))
+* pull stations data from github on each integration loading ([d1c5768](https://github.com/pfiorentino/hass-prixcarburant/commit/d1c5768600b62a0c5f303f68cd6c4f474c4d665b))
+* station update ([10cde2a](https://github.com/pfiorentino/hass-prixcarburant/commit/10cde2a27385a7eb798646386d0b93e6ed959290))
+* update stations data ([#103](https://github.com/pfiorentino/hass-prixcarburant/issues/103)) ([9ec1959](https://github.com/pfiorentino/hass-prixcarburant/commit/9ec19593f403559fe138dca2982edda5844fedfd))
+* update stations data ([#104](https://github.com/pfiorentino/hass-prixcarburant/issues/104)) ([622db9e](https://github.com/pfiorentino/hass-prixcarburant/commit/622db9e210686513002b78df410e0ad9055c8c57))
+* Update stations_name.json ([#108](https://github.com/pfiorentino/hass-prixcarburant/issues/108)) ([3d484e4](https://github.com/pfiorentino/hass-prixcarburant/commit/3d484e4dfc42537d48ead4777bdc3e47e6d23763))
+
+### Bug Fixes
+
+* options configflow error ([2ecd341](https://github.com/pfiorentino/hass-prixcarburant/commit/2ecd341a53e8eedbae77b065bbe52d7063616762))
+* update brand logo URLs in tools.py ([#122](https://github.com/pfiorentino/hass-prixcarburant/issues/122)) ([0ce7648](https://github.com/pfiorentino/hass-prixcarburant/commit/0ce7648cb7c442fb9746160a6f3b23e0a56c6b6a))
+* Update in stations_name.json and update in tools.py ([#100](https://github.com/pfiorentino/hass-prixcarburant/issues/100)) ([97f4e7b](https://github.com/pfiorentino/hass-prixcarburant/commit/97f4e7b0e9d17f55ee6b1c57c10f48a5fc273024))
+* Update station Pontault & Ferrieres ([#99](https://github.com/pfiorentino/hass-prixcarburant/issues/99)) ([884f921](https://github.com/pfiorentino/hass-prixcarburant/commit/884f92110fee0fe02f01008b36b1a71181b8cf98))
+
 ## [3.17.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.16.1...3.17.0) (2025-12-24)
 
 ### Features
